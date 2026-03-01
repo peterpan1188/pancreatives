@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 
 # Replace with your actual sitemap URL
-Sitemap: https://https://pancreatives.vercel.app/sitemap.xml
+Sitemap: https://pancreatives.vercel.app/sitemap.xml
